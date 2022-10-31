@@ -1,5 +1,5 @@
 # braces64
-This repository contains all left braces of order 64, obtained by Adolfo Ballester-Bolinches, Ramón Esteban-Romero, and Vicent Pérez-Calabuig (additive groups `SmallGroup(64, 55)` and `SmallGroup(64, 192)`) and by Valeriy G. Bardakov, Mikhail V. Neshchadim, and Manoj K. Yadav (rest of the additive groups). The braces are presented in the form of triply factorised groups.
+This repository contains all left braces of order 64, obtained by Adolfo Ballester-Bolinches, Ramón Esteban-Romero, and Vicent Pérez-Calabuig (additive groups `SmallGroup(64, 55)` and `SmallGroup(64, 192)`) and by Valeriy G. Bardakov, Mikhail V. Neshchadim, and Manoj K. Yadav (rest of the additive groups, https://doi.org/10.1142/S0218196720500216). The braces are presented in the form of triply factorised groups.
 
 The tgz archives contain files with names like `BRACES64_55/BRACES_199c8_2q5_672.g`. This file encodes the information to recover with GAP the skew left braces with additive group `SmallGroup(64, 55)` and multiplicative group isomorphic to `SmallGroup(64, 199)` for which the centraliser of action of the multiplicative group on the additive group is isomorphic to `SmallGroup(8, 2)`, the corresponding quotient is isomorphic to   `SmallGroup(8, 5)` (here 8=64/8), and the length of the conjugacy classes of the corresponding regular subgroups in the holomorph is 672.
 
